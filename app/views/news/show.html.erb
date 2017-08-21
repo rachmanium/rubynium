@@ -1,0 +1,17 @@
+<p>
+
+  <%= @news.judul %>
+</p>
+
+
+  <%= @news.penulis %>
+</p>
+
+  <%= @news.isi %>
+</p>
+
+<h2>Add a comment:</h2>
+
+
+<%= link_to 'Edit', edit_news_path(@news) %> |
+<%= link_to 'Back to index news', news_index_path %>

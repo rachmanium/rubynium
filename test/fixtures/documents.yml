@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nama_file: MyString
+  departemen: MyString
+  nomor_dokumen: MyString
+  lokasi: MyString
+
+two:
+  nama_file: MyString
+  departemen: MyString
+  nomor_dokumen: MyString
+  lokasi: MyString
